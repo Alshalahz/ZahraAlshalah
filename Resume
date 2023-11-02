@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zahra Alshalah - Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Zahra Alshalah</h1>
+        <p>Guinness World Records Breaker</p>
+        <div class="contact-info">
+            <p>Email: Alshalahz@gmail.com</p>
+            <p>Phone: +44 77 6377 8922</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/zahraalshalah">linkedin.com/in/zahraalshalah</a></p>
+        </div>
+    </header>
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p>Seasoned professional with international education and experience. Skilled in diverse technical applications. Excellent communicator; fluent in English, Arabic. Highly motivated self-starter who is also an effective team member, able to connect with people of all levels. Able to operate effectively in a multicultural environment.</p>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <div class="degree">
+            <h3>Master of International Hospitality and Tourism Management - Bournemouth University</h3>
+            <p>Graduated in 2023</p>
+            <p>Dissertation Topic: An investigation of AI in talent management in luxury hospitality in the UK.</p>
+            <p>Dissertation grade: Distinction.</p>
+            <p>Achievements:</p>
+            <ul>
+                <li>Graduate Skills+ Award by Bournemouth University.</li>
+                <li>Award for academic achievement by Ministry of Education, Saudi Arabia, [2023].</li>
+                <!-- Add more achievements as needed -->
+            </ul>
+        </div>
+        <div class="degree">
+            <h3>Master of Health Informatics - Auckland University of Technology</h3>
+            <p>Graduated in 2016</p>
+            <p>Conducted an in-depth analysis of patient experience data, focusing on satisfaction and feedback.</p>
+            <p>Successfully completed a comprehensive survey analysis and generated a report for the Australian Pharmacy Guild.</p>
+            <!-- Add more details as needed -->
+        </div>
+        <div class="degree">
+            <h3>Bachelor of Information Technology - Waikato Institute of Technology</h3>
+            <p>Graduated in 2014</p>
+            <p>Best final project award, 2014.</p>
+            <p>Emphasis in Database Administration and Development, and Systems Analysis.</p>
+            <p>Award for academic achievement, [2, 2013].</p>
+            <p>Award for academic achievement, [2, 2014].</p>
+            <!-- Add more details as needed -->
+        </div>
+        <div class="degree">
+            <h3>Diploma: Public Administration - Institute of Public Administration</h3>
+            <p>Completed in 2005</p>
+            <p>Coursework in professional administrative skills and organisational behaviour.</p>
+            <p>A letter of appreciation, 1, 2004.</p>
+            <!-- Add more details as needed -->
+        </div>
+    </section>
+    <section id="work-experience">
+        <h2>Work Experience</h2>
+        <div class="job">
+            <h3>University Placement (Receptionist) - Balmer Lawn Hotel</h3>
+            <p>Brockenhurst, United Kingdom</p>
+            <p>03/2023 - 07/2023</p>
+            <p>Responsible for receptionist duties at a reputable hotel.</p>
+        </div>
+        <div class="job">
+            <h3>Receptionist - Ocean Beach Hotel & Spa</h3>
+            <p>Bournemouth, United Kingdom</p>
+            <p>09/2022 - 02/2023</p>
+            <p>Provided reception services at a luxury hotel and spa.</p>
+        </div>
+        <div class="job">
+            <h3>I.T. Assistant & Technology Analyst Intern - BIOZONE Corporations</h3>
+            <p>New Zealand</p>
+            <p>07/2014 - 03/2015</p>
+            <p>IT internship, spearheaded initiative to utilize Salesforce features and tools to automate and improve the company's business processes.</p>
+            <p>Achievements:</p>
+            <ul>
+                <li>Data cleansing and migration from Excel to Salesforce without duplications.</li>
+                <li>Used SQL script in Salesforce database to extract, upload and manipulate data to streamline and improve department workflows.</li>
+                <!-- Add more achievements as needed -->
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Unit Assistant - Ministry of National Guard Health Affairs</h3>
+            <p>Riyadh, Saudi Arabia</p>
+            <p>08/2005 - 02/2010</p>
+            <p>Troubleshoot technical issues with cardiovascular information systems, particularly, Apollo software from Lumedx.</p>
+            <!-- Add more job details as needed -->
+        </div>
+        <div class="job">
+            <h3>Administrative Assistant - King Saud bin Abdulaziz University for Health Sciences</h3>
+            <p>Saudi Arabia</p>
+            <p>12/2004 - 01/2005</p>
+            <p>Provided integral assistance for the proficient management of the Dean's office for an internship rotation, as an Executive Assistant.</p>
+            <!-- Add more job details as needed -->
+        </div>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skill-category">
+            <h3>Design & Visualisation</h3>
+            <ul>
+                <li>PHP, JavaScript, HTML, CSS, and MySQL.</li>
+                <li>Unity 3D for games design and development.</li>
+                <li>Adobe Creative Suite: Illustrator/Photoshop Audition | Fireworks | Dreamweaver.</li>
+                <li>Final Cut Express / Canva.</li>
+            </ul>
+        </div>
+        <div class="skill-category">
+            <h3>Systems Analysis</h3>
+            <ul>
+                <li>Microsoft Visio / Visual Paradigm.</li>
+            </ul>
+        </div>
+        <div class "skill-category">
+            <h3>Data Analysis</h3>
+            <ul>
+                <li>Excel | Python | Kaggle | SPSS</
